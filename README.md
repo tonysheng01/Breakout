@@ -45,7 +45,7 @@ The game contains 4 built-in levels which can be easily modified based on the pl
 > **4:** yellow destroyable brick  
 > **5:** orange destroyable brick
 
-The level in the demo was created from the following array:
+The level in the above demo was created from the following array:
 
 `5 5 5 5 5 5 5 5 5 5 5 5 5 5 5`  
 `5 5 5 5 5 5 5 5 5 5 5 5 5 5 5`  
