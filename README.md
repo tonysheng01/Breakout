@@ -5,9 +5,9 @@ This is a remake of the classic arcade game _Breakout_ created with the OpenGL g
 - [Features](#features)
 - [In-game Screenshots](#in-game-screenshots)
 - [Tutorial](#tutorial)
- - [Basic Rules](#basic-rules)
- - [Powerups](#powerups)
- - [Customizing the Levels](#customizing-the-levels)
+  - [Basic Rules](#basic-rules)
+  - [Powerups](#powerups)
+  - [Customizing the Levels](#customizing-the-levels)
 - [Dependencies](#dependencies)
 
 ## Features
