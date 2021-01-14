@@ -13,12 +13,9 @@ This is a remake of the classic arcade game _Breakout_ created with the OpenGL g
 - Cool post-processings and particle effects
 
 ## In-game Screenshots
-
-`level selection screenshot`
-
-`confuse screenshot`
-
-`winning screenshot`
+![Level selection][level_selection]
+![In game][ingame_confuse]
+![Winning][winning]
 
 ## Tutorial
 ### Basic Rules
@@ -58,3 +55,7 @@ A functioning OpenGL (3.3 or later) environment is required to run the game. In 
 - stb_image (2.26 or later)
 - FreeType (2.10.4 or later)
 - irrKlang (1.6 or later)
+
+[level_selection]: /screenshots/level_selection.png
+[ingame_confuse]: /screenshots/ingame_confuse.png
+[winning]: /screenshots/winning.png
