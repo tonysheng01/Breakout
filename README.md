@@ -9,7 +9,7 @@ This is a remake of the classic arcade game _Breakout_ created with the OpenGL g
 
 ## Features
 - Fully customizable levels
-- Randomly spawining powerups
+- Randomly spawning powerups
 - Cool post-processings and particle effects
 
 ## In-game Screenshots
