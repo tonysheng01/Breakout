@@ -36,7 +36,7 @@ Powerups are added to enhance the adventure. They are randomly spawned at the to
 > Hint: powerups with reddish icons are generally associated with unwanted effects.
 
 ### Customizing the Levels
-The game contains 4 built-in levels; however, they can be modified based on the player's interest. Level data is stored in text files under `/levels`. Each level is represented by a matrix of numbers where the meaning of individual numbers differ:
+The game contains 4 built-in levels which can be easily modified based on the player's interest. Level data is stored in text files under `/levels`. Each level is represented by a matrix of numbers where the meaning of individual numbers differ:
 
 > **0:** empty block  
 > **1:** solid, undestroyable block  
@@ -44,6 +44,17 @@ The game contains 4 built-in levels; however, they can be modified based on the 
 > **3:** green destroyable brick  
 > **4:** yellow destroyable brick  
 > **5:** orange destroyable brick
+
+The level in the demo was created from the following array:
+
+`5 5 5 5 5 5 5 5 5 5 5 5 5 5 5`  
+`5 5 5 5 5 5 5 5 5 5 5 5 5 5 5`  
+`4 4 4 4 4 0 0 0 0 0 4 4 4 4 4`  
+`4 1 4 1 4 0 0 1 0 0 4 1 4 1 4`   
+`3 3 3 3 3 0 0 0 0 0 3 3 3 3 3`  
+`3 3 1 3 3 3 3 3 3 3 3 3 1 3 3`  
+`2 2 2 2 2 2 2 2 2 2 2 2 2 2 2`  
+`2 2 2 2 2 2 2 2 2 2 2 2 2 2 2`  
 
 To prevent crashes, each row of the matrix must be fully filled (having identical size) and may only contain the above elements. The level files must not be renamed.
 
