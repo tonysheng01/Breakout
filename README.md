@@ -27,8 +27,8 @@ The general rules are no different from those of the original game developed by 
 
 ### Powerups
 Powerups are added to enhance your adventure. They are randomly spawned at the top of the screen and slowly fall down. The player can choose to activate a powerup by catching it with the paddle. Currently six types of powerups are included in the game:
-1. **Size increase:** Temporarily widens the paddle, making it easier to catch the ball.  
-2. **Speed increase:** Increases the speed of the ball. The effect will be cumulative throughout the game so choose wisely!   
+1. **Paddle size increase:** Temporarily widens the paddle, making it easier to catch the ball.  
+2. **Ball speed increase:** Increases the speed of the ball. The effect will be cumulative throughout the game so choose wisely!   
 3. **Pass-through:** Temporarily lets the ball pass through all bricks it touches without bouncing back.
 4. **Sticky paddle:** Makes the ball stuck on the paddle the next time it is caught. Useful for adjusting the ball's launching position and angle.
 5. **Confuse:** Inverts paddle movement and places the scene upside-down. You might not want this.
