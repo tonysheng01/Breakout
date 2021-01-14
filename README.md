@@ -48,7 +48,7 @@ The game contains 4 built-in levels; however, they can be modified based on the 
 To prevent crashes, each row of the matrix must be fully filled (having identical size) and may only contain the above elements. The level files must not be renamed.
 
 ## Dependencies
-A functioning OpenGL (3.3 or later) environment is required to run the game. In addition, make sure you that link to your project the following libraries and that all include paths are correct.
+A functioning OpenGL (3.3 or later) environment is required to run the game. In addition, make sure that you link to your project the following libraries and that all include paths are correct.
 - GLFW (3.3 or later)
 - GLAD (for OpenGL 3.3 or later)
 - GLM (0.9.9.8 or later)
