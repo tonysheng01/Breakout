@@ -6,6 +6,12 @@ This is a remake of the classic arcade game _Breakout_ created with the OpenGL g
 - Randomly spawining powerups
 - Cool post-processings and particle effects
 
+`level selection screenshot`
+
+`confuse screenshot`
+
+`winning screenshot`
+
 ## Tutorial
 ### Rules
 The general rules are no different from those of the original game developed by Atari. The setup consists of layers of bricks as well as obstacles that cannot be destroyed. A ball travels across the screen, destroying the bricks it touches and bouncing off obstacles. The player controls a horizontally moving paddle to prevent the ball from hitting the bottom of the screen, in which case they lose a life. The goal is to eliminate all bricks without losing all lives.
@@ -33,4 +39,6 @@ The game contains 4 built-in levels; however, they can be modified based on the 
 > **4:** yellow destroyable brick  
 > **5:** orange destroyable brick
 
-To prevent crashes, each row of the matrix be fully filled (having identical size) and may only contain the above elements.
+To prevent crashes, each row of the matrix must be fully filled (having identical size) and may only contain the above elements.
+
+## Dependencies
