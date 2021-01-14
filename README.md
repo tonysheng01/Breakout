@@ -38,12 +38,12 @@ Powerups are added to enhance the adventure. They are randomly spawned at the to
 ### Customizing the Levels
 The game contains 4 built-in levels which can be easily modified based on the player's interest. Level data is stored in text files under `/levels`. Each level is represented by a matrix of numbers where the meaning of individual numbers differ:
 
-> **0:** empty block  
-> **1:** solid, undestroyable block  
-> **2:** blue destroyable brick  
-> **3:** green destroyable brick  
-> **4:** yellow destroyable brick  
-> **5:** orange destroyable brick
+> **0:** Empty block  
+> **1:** Solid, undestroyable block  
+> **2:** Blue destroyable brick  
+> **3:** Green destroyable brick  
+> **4:** Yellow destroyable brick  
+> **5:** Orange destroyable brick
 
 The level in the above demo was created from the following array:
 
