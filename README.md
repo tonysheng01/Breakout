@@ -51,9 +51,9 @@ To prevent crashes, each row of the matrix must be fully filled (having identica
 
 ## Dependencies
 A functioning OpenGL (3.3 or later) environment is required to run the game. In addition, make sure you link to your project the following libraries:
-GLFW (3.3 or later)
-GLAD (for OpenGL 3.3 or later)
-GLM (0.9.9.8 or later)
-stb_image (2.26 or later)
-FreeType (2.10.4 or later)
-irrKlang (1.6 or later)
+- GLFW (3.3 or later)
+- GLAD (for OpenGL 3.3 or later)
+- GLM (0.9.9.8 or later)
+- stb_image (2.26 or later)
+- FreeType (2.10.4 or later)
+- irrKlang (1.6 or later)
