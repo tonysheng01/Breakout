@@ -24,10 +24,13 @@ Powerups are added to enhance your adventure. They are randomly spawned at the t
 6. **Chaos:** Creates a chaotic effect where the scene is heavily distorted. Avoid at all costs!
 
 ### Customizing the Levels
-Level data is stored in text files under `/levels`. Each level is represented by a matrix of numbers where the meaning of individual numbers differ:
+The game contains 4 built-in levels; however, they can be modified based on the player's interest. Level data is stored in text files under `/levels`. Each level is represented by a matrix of numbers where the meaning of individual numbers differ:
+
 > **0:** empty block  
 > **1:** solid, undestroyable block  
 > **2:** blue destroyable brick  
 > **3:** green destroyable brick  
 > **4:** yellow destroyable brick  
-> **5:** orange destroyable brick  
+> **5:** orange destroyable brick
+
+To prevent crashes, each row of the matrix must have identical size and may only contain the above elements.
