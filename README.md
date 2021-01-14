@@ -31,7 +31,7 @@ Powerups are added to enhance the adventure. They are randomly spawned at the to
 2. **Ball speed increase:** Increases the speed of the ball. The effect will be cumulative throughout the game so choose wisely!   
 3. **Pass-through:** Temporarily lets the ball pass through all bricks it touches without bouncing back.
 4. **Sticky paddle:** Makes the ball stuck on the paddle the next few times it is caught. Useful for adjusting the ball's launching position and angle.
-5. **Confuse:** Inverts paddle movement and places the scene upside-down. You might not want this.
+5. **Confuse:** Places the scene upside-down and inverts all control. You might not want this.
 6. **Chaos:** Creates a chaotic effect where the scene is heavily distorted. Avoid at all costs!
 > Hint: powerups with reddish icons are generally associated with unwanted effects.
 
