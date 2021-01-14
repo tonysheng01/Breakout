@@ -1,10 +1,15 @@
 # Breakout
 This is a remake of the classic arcade game _Breakout_ created with the OpenGL graphics library. While exciting new features are added, the fundamentals of the original game are preserved.
 
+## Table of Contents
+- [Features](#features)
+
 ## Features
 - Fully customizable levels
 - Randomly spawining powerups
 - Cool post-processings and particle effects
+
+## In-game Screenshots
 
 `level selection screenshot`
 
