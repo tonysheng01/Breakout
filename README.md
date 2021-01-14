@@ -36,7 +36,7 @@ Powerups are added to enhance your adventure. They are randomly spawned at the t
 4. **Sticky paddle:** Makes the ball stuck on the paddle the next time it is caught. Useful for adjusting the ball's launching position and angle.
 5. **Confuse:** Inverts paddle movement and places the scene upside-down. You might not want this.
 6. **Chaos:** Creates a chaotic effect where the scene is heavily distorted. Avoid at all costs!
-> Hint: powerups with reddish icons generally are generally associated with unwanted effects.
+> Hint: powerups with reddish icons are generally associated with unwanted effects.
 
 ### Customizing the Levels
 The game contains 4 built-in levels; however, they can be modified based on the player's interest. Level data is stored in text files under `/levels`. Each level is represented by a matrix of numbers where the meaning of individual numbers differ:
