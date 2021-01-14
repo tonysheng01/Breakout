@@ -33,4 +33,4 @@ The game contains 4 built-in levels; however, they can be modified based on the 
 > **4:** yellow destroyable brick  
 > **5:** orange destroyable brick
 
-To prevent crashes, each row of the matrix must have identical size and may only contain the above elements.
+To prevent crashes, each row of the matrix be fully filled (having identical size) and may only contain the above elements.
