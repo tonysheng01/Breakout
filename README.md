@@ -26,7 +26,7 @@ The general rules are no different from those of the original _Breakout_ develop
 > ⬆️          Press **SPACE** to release the ball when it is stuck
 
 ### Powerups
-Powerups are added to enhance the adventure. They are randomly spawned at the top of the screen and slowly fall down. The player can choose to activate a powerup by catching it with the paddle. Currently six types of powerups are included in the game:
+Powerups are added to enhance the adventure. They are randomly spawned when blocks are destroyed and slowly fall down until reaching the bottom, at which moment they disappear. The player can choose to activate a powerup by catching it with the paddle. Currently six types of powerups are included in the game:
 1. **Paddle size increase:** Temporarily widens the paddle, making it easier to catch the ball.  
 2. **Ball speed increase:** Increases the speed of the ball. The effect will be cumulative throughout the game so choose wisely!   
 3. **Pass-through:** Temporarily lets the ball pass through all bricks it touches without bouncing back.
