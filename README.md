@@ -33,7 +33,6 @@ Powerups are added to enhance the adventure. They are randomly spawned when bloc
 4. **Sticky paddle (pink icon):** Enables the "sticky paddle" feature for a short period of time, making the ball stuck on the paddle when being caught. Useful for adjusting the ball's launching position and angle.
 5. **Confuse (red icon):** Temporarily places the scene upside-down and inverts all control. You might not want this.
 6. **Chaos (dark crimson icon):** Creates a chaotic effect where the scene is heavily distorted, lasting for a few seconds. Avoid at all costs!
-> Hint: powerups with reddish icons are generally associated with unwanted effects.
 
 ### Customizing the Levels
 The game contains 4 built-in levels which can be easily modified based on the player's interest. Level data is stored in text files under `/levels`. Each level is represented by a matrix of numbers where the meaning of individual numbers differ:
